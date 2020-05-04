@@ -1,0 +1,11 @@
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\bin\HPD\Debug\netcoreapp2.2\PingPong.deps.json
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\bin\HPD\Debug\netcoreapp2.2\PingPong.runtimeconfig.json
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\bin\HPD\Debug\netcoreapp2.2\PingPong.runtimeconfig.dev.json
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\bin\HPD\Debug\netcoreapp2.2\PingPong.dll
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\bin\HPD\Debug\netcoreapp2.2\PingPong.pdb
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\obj\HPD\Debug\netcoreapp2.2\PingPong.csprojAssemblyReference.cache
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\obj\HPD\Debug\netcoreapp2.2\PingPong.csproj.CoreCompileInputs.cache
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\obj\HPD\Debug\netcoreapp2.2\PingPong.AssemblyInfoInputs.cache
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\obj\HPD\Debug\netcoreapp2.2\PingPong.AssemblyInfo.cs
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\obj\HPD\Debug\netcoreapp2.2\PingPong.dll
+c:\Users\conno_000\Desktop\C#\cs-ping-pong\obj\HPD\Debug\netcoreapp2.2\PingPong.pdb
